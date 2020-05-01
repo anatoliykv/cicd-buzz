@@ -1,11 +1,11 @@
 import random
 
 buzz = ('continuous testing', 'continuous integration',
-        'continuous deployment', 'continuous improvement', 'devops', 'anatoliykv2')
-adjectives = ('complete', 'modern', 'self-service', 'integrated', 'end-to-end', 'anatoliykv2')
+        'continuous deployment', 'continuous improvement', 'devops', 'anatoliykv3')
+adjectives = ('complete', 'modern', 'self-service', 'integrated', 'end-to-end', 'anatoliykv3')
 adverbs = ('remarkably', 'enormously', 'substantially', 'significantly',
-           'seriously', 'anatoliykv2')
-verbs = ('accelerates', 'improves', 'enhances', 'revamps', 'boosts', 'anatoliykv2')
+           'seriously', 'anatoliykv3')
+verbs = ('accelerates', 'improves', 'enhances', 'revamps', 'boosts', 'anatoliykv3')
 
 
 def sample(l, n=1):
